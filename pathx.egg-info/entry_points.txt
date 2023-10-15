@@ -1,0 +1,3 @@
+[console_scripts]
+xpath = pathx.main:main_function
+

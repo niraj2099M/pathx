@@ -1,0 +1,8 @@
+setup.py
+pathx/__init__.py
+pathx/main.py
+pathx.egg-info/PKG-INFO
+pathx.egg-info/SOURCES.txt
+pathx.egg-info/dependency_links.txt
+pathx.egg-info/entry_points.txt
+pathx.egg-info/top_level.txt
