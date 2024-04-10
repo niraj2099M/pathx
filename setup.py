@@ -9,7 +9,7 @@ setup(
        ],
        entry_points={
            'console_scripts': [
-               'xpath = pathx.main:main_function',
+               'pathx = pathx.main:main_function',
            ],
        },
 )
