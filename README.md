@@ -8,5 +8,4 @@ This code also comes with a CLI tool 'pathx' which is installed with this packag
 ###
 Installation: Go to package dir containing setup.py file and pathx package
     
->pip install .
-    
+    pip install .
