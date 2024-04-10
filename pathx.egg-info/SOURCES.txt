@@ -1,3 +1,4 @@
+README.md
 setup.py
 pathx/__init__.py
 pathx/main.py

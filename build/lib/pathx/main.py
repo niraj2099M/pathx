@@ -55,6 +55,7 @@ def win_wsl(path):
 import argparse
 import sys
 
+#this function is called in command line as xpath [address]
 def main_function():
     parser = argparse.ArgumentParser(description="Your script description")
     parser.add_argument("input_path", help="Path to the file")
